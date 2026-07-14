@@ -3,8 +3,8 @@
   "theme": "luma",
   "name": "StackMap",
   "colors": {
-    "primary": "#ef7025",
-    "light": "#eec9bc",
+    "primary": "#fa6838",
+    "light": "#fa6838",
     "dark": "#4fa1ab"
   },
   "favicon": "/favicon.svg",
